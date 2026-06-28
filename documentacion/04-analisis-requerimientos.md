@@ -20,8 +20,8 @@
 
 ## Requerimientos funcionales
 
-- **RF01:** El sistema debe permitir registrar, editar y eliminar obras.
-- **RF02:** El sistema debe permitir registrar, editar y eliminar empleados.
+- **RF01:** El sistema debe permitir registrar, editar y eliminar empleados.
+- **RF02:** El sistema debe permitir registrar, editar y eliminar obras.
 - **RF03:** El sistema debe permitir asignar empleados a obras.
 - **RF04:** El sistema debe permitir visualizar lps empleados por obra.
 - **RF05:** El sistema debe permitir registrar tareas a obras.
@@ -33,7 +33,7 @@
 
 ## Requerimientos no funcionales
 
-- **RNF01:** El sistema debe tener una interfaz simple e intuitiva.
+- **RNF01:** El sistema deberá requerir autenticación para acceder a la información. Garantizar que únicamente usuarios autorizados puedan utilizar la plataforma.
 - **RNF02:** El sistema debe responder a las acciones del usuario en menos de 2 segundos.
 - **RNF03:** El sistema debe ser escalable para futuras funcionalidades.
 
