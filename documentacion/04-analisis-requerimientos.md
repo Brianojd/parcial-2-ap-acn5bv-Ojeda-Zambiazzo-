@@ -39,20 +39,25 @@
 
 ---
 
-# Historias de Usuario basadas en Stakeholders
+## Historias de Usuario basadas en Stakeholders
 
 ---
 
-## 1: Dueño de la Empresa Constructora
+### 1. Dueño de la Empresa Constructora
 
 ###  HU01 - Visualización general del sistema
 **Como** dueño de la empresa constructora,  
 **quiero** visualizar el estado general de todas las obras,  
 **para** poder tomar decisiones estratégicas basadas en información actualizada.
 
+### HU10 - Consulta del avance de una obra
+**Como** dueño de la empresa constructora,  
+**quiero** consultar el estado de avance de una obra específica,  
+**para** realizar un seguimiento detallado del progreso del proyecto y facilitar la toma de decisiones.
+
 ---
 
-## 2: Encargado de Obra
+### 2. Encargado de Obra
 
 ### HU02 - Asignación de empleados
 **Como** encargado de obra,  
@@ -64,9 +69,14 @@
 **quiero** registrar y actualizar tareas dentro de cada obra,  
 **para** controlar el avance operativo del proyecto.
 
+### HU11 - Visualización de empleados por obra
+**Como** encargado de obra,  
+**quiero** visualizar los empleados asignados a una obra,  
+**para** conocer qué personal se encuentra trabajando en cada proyecto y organizar mejor las tareas.
+
 ---
 
-## 3: Empleados de Obra
+### 3. Empleados de Obra
 
 ### HU04 - Consulta de obras
 **Como** empleado de obra,  
@@ -85,7 +95,7 @@
 
 ---
 
-## 4: Área Administrativa
+### 4. Área Administrativa
 
 ### HU07 - Registrar Empleados
 **Como** área administrativa,  
@@ -101,3 +111,8 @@
 **Como** área administrativa,  
 **quiero** consultar resúmenes del estado de las obras,  
 **para** apoyar tareas de seguimiento y control.
+
+### HU12 - Asignación de tareas a empleados
+**Como** área administrativa,  
+**quiero** asignar tareas a los empleados asociados a una obra,  
+**para** distribuir correctamente las actividades planificadas y facilitar el seguimiento del trabajo.
