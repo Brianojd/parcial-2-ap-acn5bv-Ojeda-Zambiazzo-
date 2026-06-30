@@ -1,7 +1,9 @@
 # Metodología Ágil de Trabajo
-Para la gestión de este proyecto, se adoptó Kanban como metodología, ya que la empresa necesita una primera versión funcional en 3 meses,
-realizar entregas continuas y adaptarse rápidamente a cambios o nuevos requerimientos durante el desarrollo. Además, 
-el equipo puede visualizar fácilmente el estado de cada tarea y el seguimiento de cada una.
+Para la gestión del proyecto se adoptó **Scrum** como metodología ágil principal, ya que permitió organizar el trabajo en etapas, priorizar funcionalidades y adaptarse a los cambios surgidos durante el desarrollo.
+
+Como herramienta de seguimiento se utilizó **GitHub Projects**, cuyo tablero Kanban permitió visualizar el estado de cada Historia de Usuario y facilitar la gestión de las tareas del equipo.
+
+El proyecto fue organizado en tres Milestones, representando las principales etapas de desarrollo durante los tres meses previstos, permitiendo realizar entregas incrementales y controlar el avance del proyecto.
 
 | Característica | Aplicación al proyecto |
 |---------------|----------------------------------|
