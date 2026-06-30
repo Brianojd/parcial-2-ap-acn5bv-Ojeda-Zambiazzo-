@@ -1,0 +1,17 @@
+public class ObraService
+{
+    public void RegistrarObra()
+    {
+       
+    }
+
+    public void EditarObra()
+    {
+       
+    }
+
+    public void EliminarObra()
+    {
+       
+    }
+}
